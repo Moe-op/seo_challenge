@@ -13,7 +13,7 @@ Semantics in HTML: I learned how to use semantic HTML elements like <header>, <n
 Selecting Descriptive Class and ID Names: I managed to learn the importance of selecting descriptive and meaningful class and ID names for elements, making it clear what their purpose is within the HTML.
 Commenting in CSS: I learned the value of adding comments to your CSS code to provide context and explain the purpose of specific sections or selectors. This helps me and other developers understand the code when you revisit it later.
 <p align="center">
-  <img alt="CSS code Comments" src="01seo_challenge/CSS-Comments.png">
+  <img alt="CSS code Comments" src="CSS-Comments.png">
 </p>
 Consolidating and Grouping CSS Rules: Grouping related selectors and properties together helps in maintaining and reading the code.
 Accessibility: I managed to improved the accessibility of the web page by adding alt attributes to images, which is important for users.
